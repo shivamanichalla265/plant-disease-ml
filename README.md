@@ -106,5 +106,5 @@ B.Tech CSE (AI/ML Enthusiast)
 
 ---
 
-## ⭐ If you like this project
+##  If you like this project
 Give a star ⭐ on the repository
